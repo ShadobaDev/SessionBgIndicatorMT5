@@ -3,8 +3,8 @@
 //|                                       Copyright 2026, ShadobaDev |
 //|              https://github.com/ShadobaDev/SessionBgIndicatorMT5 |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2025, MetaQuotes Ltd."
-#property link      "https://www.mql5.com"
+#property copyright "Copyright 2026, ShadobaDev"
+#property link      "https://github.com/ShadobaDev/SessionBgIndicatorMT5"
 #property version   "1.00"
 #property strict
 
